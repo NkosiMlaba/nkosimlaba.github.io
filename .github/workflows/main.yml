@@ -15,4 +15,3 @@ jobs:
         server: ftp.theemlaba.co.za
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /home/theemmza/public_html/
