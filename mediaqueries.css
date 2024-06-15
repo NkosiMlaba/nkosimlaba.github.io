@@ -24,8 +24,12 @@
   }
   #contact,
   #projects, #projects_graphic_1, #projects_graphic_2, #projects_graphic_3 {
-    width: auto;
+    width: 90vw;
     height: auto;
+  }
+  /*  */
+  #projects_graphic_1 {
+    flex-wrap: wrap;
   }
 }
 
@@ -61,6 +65,10 @@
   }
   .about-containers {
     margin-top: 0;
+  }
+  /*  */
+  #projects_graphic_1 {
+    flex-wrap: wrap;
   }
 }
 
@@ -116,5 +124,9 @@
   }
   .text-container {
     text-align: justify;
+  }
+  /*  */
+  #projects_graphic_1 {
+    flex-wrap: wrap;
   }
 }

@@ -343,6 +343,17 @@ section {
   
 }
 
+.picture-container {
+  min-width: 200px;
+  display: flex;
+  text-align: initial;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 2.5rem;
+  justify-content: space-around;
+  
+}
+
 article {
   display: flex;
   width: 10rem;
@@ -432,4 +443,22 @@ footer {
 
 footer p {
   text-align: center;
+}
+
+/* Style for fullscreen */
+#fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+
+#fullscreen img {
+  max-width: 90%;
+  max-height: 90%;
 }
