@@ -1,2 +1,5 @@
 .cpanel.yml
 images
+.vscode
+.github
+.gitignore
