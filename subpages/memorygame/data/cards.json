@@ -1,10 +1,10 @@
 [
-    {"image": "../assets/A.png", "name": "A"},
-    {"image": "../assets/B.png", "name": "B"},
-    {"image": "../assets/C.png", "name": "C"},
-    {"image": "../assets/D.png", "name": "D"},
-    {"image": "../assets/E.png", "name": "E"},
-    {"image": "../assets/F.png", "name": "F"},
-    {"image": "../assets/G.png", "name": "G"},
-    {"image": "../assets/H.png", "name": "H"}
+    {"image": "/subpages/memorygame/assets/A.png", "name": "A"},
+    {"image": "/subpages/memorygame/assets/B.png", "name": "B"},
+    {"image": "/subpages/memorygame/assets/C.png", "name": "C"},
+    {"image": "/subpages/memorygame/assets/D.png", "name": "D"},
+    {"image": "/subpages/memorygame/assets/E.png", "name": "E"},
+    {"image": "/subpages/memorygame/assets/F.png", "name": "F"},
+    {"image": "/subpages/memorygame/assets/G.png", "name": "G"},
+    {"image": "/subpages/memorygame/assets/H.png", "name": "H"}
 ]
