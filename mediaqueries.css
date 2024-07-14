@@ -20,6 +20,7 @@
     #projects_graphic_3 {
         width: auto;
         height: auto;
+        margin: 40px;
     }
 
     .arrow {
@@ -49,6 +50,7 @@
     #projects_graphic_3 {
         width: auto;
         height: auto;
+        margin: 40px;
     }
 
     /*  */
@@ -197,5 +199,6 @@
     #projects_graphic_3 {
         width: auto;
         height: auto;
+        margin: 40px;
     }
 }
