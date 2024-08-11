@@ -321,6 +321,17 @@ section {
     text-align: center;
 }
 
+.each-project-container {
+    padding: 1.5rem;
+    flex: 1;
+    background: white;
+    border-radius: 2rem;
+    border: rgb(53, 53, 53) 0.1rem solid;
+    border-color: rgb(163, 163, 163);
+    text-align: center;
+    height: 300px;
+}
+
 .section-container {
     gap: 4rem;
     height: 80%;
@@ -492,4 +503,62 @@ footer p {
 #fullscreen img {
     max-width: 90%;
     max-height: 90%;
+}
+
+/* slide show */
+/* Basic reset */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+/* Slideshow container */
+.slideshow-container {
+    position: relative;
+    max-width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Hide images by default */
+.slide {
+    display: none;
+}
+
+/* Style for images */
+.slide img {
+    width: 100%;
+    height: auto;
+}
+
+/* Navigation controls */
+.prev, .next {
+    cursor: pointer;
+    position: relative;
+    top: auto;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    border-radius: 20%;
+    user-select: none;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.next {
+    right: 0;
+    border-radius: 20%;
+}
+
+.prev:hover, .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.slide-show-img {
+    height: 300px;
+    width: 300px;
 }
