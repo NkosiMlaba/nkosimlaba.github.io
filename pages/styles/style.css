@@ -330,6 +330,7 @@ section {
     border-color: rgb(163, 163, 163);
     text-align: center;
     height: 300px;
+    width: 300px;
 }
 
 .section-container {
@@ -529,8 +530,8 @@ body, html {
 
 /* Style for images */
 .slide img {
-    width: 100%;
-    height: auto;
+    width: 200px;
+    height: 200px;
 }
 
 /* Navigation controls */
@@ -539,8 +540,8 @@ body, html {
     position: relative;
     top: auto;
     width: auto;
-    padding: 16px;
-    margin-top: -22px;
+    padding: 20px;
+    margin-top: 0;
     color: white;
     font-weight: bold;
     font-size: 24px;

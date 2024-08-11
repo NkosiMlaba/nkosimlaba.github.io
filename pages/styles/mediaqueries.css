@@ -28,6 +28,10 @@
     .arrow {
         display: none;
     }
+
+    .project-video {
+        width: 25vw;
+    }
 }
 
 @media screen and (max-width: 1400px) {
@@ -63,6 +67,10 @@
 
     .arrow {
         display: none;
+    }
+
+    .project-video {
+        height: 200px;
     }
 }
 
@@ -113,6 +121,10 @@
     /*  */
     #projects_graphic_1 {
         flex-wrap: wrap;
+    }
+
+    .project-video {
+        height: 150px;
     }
 }
 
@@ -206,5 +218,9 @@
         width: auto;
         height: auto;
         margin: 40px;
+    }
+
+    .project-video {
+        height: 150px;
     }
 }
