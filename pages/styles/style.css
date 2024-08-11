@@ -404,6 +404,12 @@ article .icon {
     height: 90%;
 }
 
+.project-custom-img {
+    border-radius: 1rem;
+    width: 50%;
+    height: 50%;
+}
+
 .project-title {
     margin: 1rem;
     color: black;
