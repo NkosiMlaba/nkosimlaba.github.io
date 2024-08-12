@@ -54,4 +54,4 @@ footerElement.innerHTML = `<nav>
     </ul>
 </div>
 </nav>
-<p>Nkosikhona Mlaba. All rights reserved</p>`
+<p style="margin-bottom: 50px">Nkosikhona Mlaba. All rights reserved</p>`
