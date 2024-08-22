@@ -1,5 +1,6 @@
 # Variables
 REPO1 = origin
+# git remote add main https://github.com/NkosiMlaba/NkosiMlaba.github.io
 REPO2 = main
 BRANCH = main
 
@@ -13,8 +14,8 @@ push-origin:
 push-secondary:
 	git push $(REPO2)
 
+# make push
 # Push to both repositories
 .PHONY: push
 push: push-origin push-secondary
 
-# make push
