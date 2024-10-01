@@ -1,5 +1,5 @@
 # Minimal-Website
-An implementation of a website that contains information about me and projects I have worked on. Uses Github actions to automatically deploy to a specified domain.
+An implementation of a website that contains information about me and projects I have worked on.
 
 ## Output
 View the live site here [Portfolio](https://nkosimlaba.github.io/Portfolio-website/)
