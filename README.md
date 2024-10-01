@@ -1,5 +1,8 @@
 # Minimal-Website
-An implementation of a website that contains information about me and projects I have worked on. Uses Github actions to automatically deploy to a specified domain. View the live site here [Portfolio](https://nkosimlaba.github.io/Portfolio-website/)
+An implementation of a website that contains information about me and projects I have worked on. Uses Github actions to automatically deploy to a specified domain.
+
+## Output
+View the live site here [Portfolio](https://nkosimlaba.github.io/Portfolio-website/)
 
 ## System Requirements:
 - An operating system with a web browser installed
@@ -38,7 +41,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contributor
 
-Nkosikhona Mlaba (nkosimlaba397@gmail.com)
+Nkosikhona Mlaba
 
 ## License
 
