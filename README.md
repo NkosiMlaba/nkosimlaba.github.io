@@ -1,8 +1,9 @@
 # Minimal-Website
 An implementation of a website that contains information about me and projects I have worked on.
 
-## Output
-View the live site here [Portfolio](https://nkosimlaba.github.io/Portfolio-website/)
+## View the live site here: [Portfolio](https://nkosimlaba.github.io/Portfolio-website/)
+![Output](program-output/image.png)
+
 
 ## System Requirements:
 - An operating system with a web browser installed
@@ -34,10 +35,6 @@ View the live site here [Portfolio](https://nkosimlaba.github.io/Portfolio-websi
 - Interactive elements
 - Media queries for responsive design
 - Slideshow for showcasing images
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## Contributor
 
