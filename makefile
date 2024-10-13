@@ -14,8 +14,15 @@ push-origin:
 push-secondary:
 	git push $(REPO2)
 
+.PHONY: commit
+commit:
+	@read -p "Enter commit message: " msg; \
+	git add .; \
+	git commit -m "$$msg"; \
+	git push
+
 # make push
 # Push to both repositories
 .PHONY: push
-push: push-origin push-secondary
+push: commit push-origin push-secondary
 

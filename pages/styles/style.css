@@ -164,9 +164,6 @@ section {
     justify-content: center;
     gap: 4rem;
     background: white;
-    border-radius: 2rem;
-    border: rgb(53, 53, 53) 0.1rem solid;
-    border-color: rgb(163, 163, 163);
     
 }
 
@@ -347,6 +344,7 @@ section {
     margin: auto 0;
 }
 
+/*  */
 .about-text-container {
     margin: auto 0;
     justify-content: center;
@@ -371,6 +369,18 @@ section {
     font-weight: 600;
     font-size: 1.75rem;
     margin-bottom: 2rem;
+}
+
+.tech-details-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.experience-details-item {
+    padding: 15px;
+    flex-direction: column;
 }
 
 .experience-details-container {
