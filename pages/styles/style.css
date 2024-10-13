@@ -160,6 +160,14 @@ section {
 
 .section-container {
     display: flex;
+    padding: 1.5rem;
+    justify-content: center;
+    gap: 4rem;
+    background: white;
+    border-radius: 2rem;
+    border: rgb(53, 53, 53) 0.1rem solid;
+    border-color: rgb(163, 163, 163);
+    
 }
 
 /* PROFILE SECTION */
@@ -333,15 +341,23 @@ section {
     width: 300px;
 }
 
-.section-container {
-    gap: 4rem;
-    height: 80%;
-}
-
 .section__pic-container {
     height: 400px;
     width: 400px;
     margin: auto 0;
+}
+
+.about-text-container {
+    margin: auto 0;
+    justify-content: center;
+    padding: 1.5rem;
+    text-align: center;
+    height: 340px;
+    width: 1000px;
+}
+
+.text-container {
+    min-height: 400;
 }
 
 /* EXPERIENCE SECTION */

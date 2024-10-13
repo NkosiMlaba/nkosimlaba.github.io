@@ -20,10 +20,10 @@ desktopNavSection.innerHTML = `<div class="logo"><a href="home.html" onclick="to
         <li><a href="home.html">Home</a></li>
         <li><a href="projects.html">Projects</a></li>
         <li><a href="designs.html">Designs</a></li>
-        <li><a href="about.html">About</a></li>
         <li><a href="#contact">Contact</a></li>
     </ul>
 </div>`
+// <li><a href="about.html">About</a></li>
 
 var hamBurgerNavSection = document.getElementById('hamburger-nav');
 hamBurgerNavSection.innerHTML = `<div class="logo"><a href="home.html" onclick="toggleMenu()">Nkosikhona Mlaba</a></div>
